@@ -576,5 +576,12 @@ font-size: 1.3rem;
     }
     .investigation-container{
         width: 100vw;
+        padding-bottom: 132px;
     }
+    .tooltip-text {
+    border-radius: 20px;
+    width: 100%;
+    top: 38px;
+    padding: 0.9rem 2rem;
+}
 }
