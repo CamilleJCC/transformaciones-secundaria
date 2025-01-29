@@ -564,6 +564,7 @@ font-size: 1.3rem;
     }
     h1 {
     font-size: 30px;
+        line-height:32px;
     }
     li {
         width:86%;
