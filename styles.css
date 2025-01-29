@@ -560,7 +560,7 @@ font-size: 1.3rem;
 @media (max-width:1000px){
     h2 {
         width: 82%;
-        padding: 0px 0px 0px 20px;
+        padding: 0px;
     }
     h1 {
     font-size: 30px;
