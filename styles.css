@@ -242,6 +242,7 @@ background: #b5f0de;
     align-items: center;
     gap: 10px;
     margin-top: 2rem;
+    justify-content: flex-end;
 }
 
 .plus-icon {
