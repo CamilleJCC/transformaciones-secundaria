@@ -570,7 +570,8 @@ font-size: 1.3rem;
         width:86%;
     }
     .popup {
-          width: 77%!important;
+     width: 92%;
+    padding: 30px 10px;
     }
     .investigation-container{
         width: 100vw;
