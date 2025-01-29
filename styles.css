@@ -559,12 +559,16 @@ font-size: 1.3rem;
 }
 @media (max-width:1000px){
     h2 {
-        width:100%;
+        width: 82%;
+        padding: 0px 0px 0px 20px;
     }
     li {
-        width:100%;
+        width:86%;
     }
     .popup {
           width: 77%!important;
+    }
+    .investigation-container{
+        width: 100vw;
     }
 }
